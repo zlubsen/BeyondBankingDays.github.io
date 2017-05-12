@@ -1,4 +1,4 @@
-# Appreciation for code quality during the Beyond Banking Days Hackathon!
+# Code quality during the Beyond Banking Days Hackathon
 
 Event: [Beyond Banking days](https://beyondbanking.nl).
 
