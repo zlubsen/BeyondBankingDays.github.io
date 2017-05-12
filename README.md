@@ -13,7 +13,7 @@ Venue: [Sugar City, Halfweg NL](https://blockchainhackathon.eu/events/hackathon-
 
 2. Find a concise reference card of the guidelines [here](https://cdn-images-1.medium.com/max/1200/1*TS-ZTeI7sQS7dy_AlMqSXQ.png)
 
-3. You can check your code against the guidelines using [Better Code Hub])https://github.com/integrations/better-code-hub), a [GitHub.com](https://Github.com) integration provided by [Software Improvement Group SIG](https://www.sig.eu). [Better Code Hub](https://bettercodehub.com) integrates with the GitHub Flow and can run in a CI/CD pipeline at all your Pull Requests and Commits.
+3. You can check your code against the guidelines using [Better Code Hub](https://github.com/integrations/better-code-hub), a [GitHub.com](https://Github.com) integration provided by [Software Improvement Group SIG](https://www.sig.eu). [Better Code Hub](https://bettercodehub.com) integrates with the GitHub Flow and can run in a CI/CD pipeline at all your Pull Requests and Commits.
 
 4. 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum of 100 KLoc per code base.
 
