@@ -4,34 +4,6 @@ When: 9, 10 and 11 June 2017.
 
 Where: [Sugar City, Halfweg NL](https://blockchainhackathon.eu/events/hackathon-the-big-weekend)
 
-## Hackathon Scoreboard
-
-Not on the scoreboard? Let the BCH team know on the #bettercodehub-support Slack channel
-
-Team | Better Code Score
---- | ---
-[dbh17-abraxas/ShareEverythingWeb](https://github.com/dbh17-abraxas/ShareEverythingWeb) | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingWeb)](https://bettercodehub.com)
-[dbh17-abraxas/ShareEverythingTruffle](https://github.com/dbh17-abraxas/ShareEverythingTruffle) | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingTruffle)](https://bettercodehub.com)
-[dbh17-abraxas/ShareEverythingEthereum](https://github.com/dbh17-abraxas/ShareEverythingEthereum) | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingEthereum)](https://bettercodehub.com)
-[rvzanten/mtga-backend](https://github.com/rvzanten/mtga-backend) | [![BCH compliance](https://bettercodehub.com/edge/badge/rvzanten/mtga-backend)](https://bettercodehub.com)
-[rvzanten/mtga-frontend](https://github.com/rvzanten/mtga-frontend) | [![BCH compliance](https://bettercodehub.com/edge/badge/rvzanten/mtga-frontend)](https://bettercodehub.com)
-[Anchormen/dutch-blockchain-hackathon-project-piggybank](https://github.com/Anchormen/dutch-blockchain-hackathon-project-piggybank) | [![BCH compliance](https://bettercodehub.com/edge/badge/Anchormen/dutch-blockchain-hackathon-project-piggybank)](https://bettercodehub.com)
-[ArthurManz/thrust-id](https://github.com/ArthurManz/thrust-id) | [![BCH compliance](https://bettercodehub.com/edge/badge/ArthurManz/thrust-id)](https://bettercodehub.com)
-[phi-nomenal/phi-nomenal](https://github.com/phi-nomenal/phi-nomenal) | [![BCH compliance](https://bettercodehub.com/edge/badge/phi-nomenal/phi-nomenal)](https://bettercodehub.com)
-[ajagesser/stemapp](https://github.com/ajagesser/stemapp) | [![BCH compliance](https://bettercodehub.com/edge/badge/ajagesser/contracts)](https://bettercodehub.com)
-[ajagesser/contracts](https://github.com/ajagesser/contracts) | [![BCH compliance](https://bettercodehub.com/edge/badge/ajagesser/contracts)](https://bettercodehub.com)
-[TeamRam/DBH17](https://github.com/TeamRam/DBH17) | [![BCH compliance](https://bettercodehub.com/edge/badge/TeamRam/DBH17)](https://bettercodehub.com)
-[coldice/dbh-b9lab-hackathon](https://github.com/coldice/dbh-b9lab-hackathon)  | [![BCH compliance](https://bettercodehub.com/edge/badge/coldice/dbh-b9lab-hackathon)](https://bettercodehub.com)
-[timostrating/DutchBlockchainHackathon-2017](https://github.com/timostrating/DutchBlockchainHackathon-2017) | [![BCH compliance](https://bettercodehub.com/edge/badge/timostrating/DutchBlockchainHackathon-2017)](https://bettercodehub.com)
-[ictdijk/digid](https://github.com/ictdijk/digid) | [![BCH compliance](https://bettercodehub.com/edge/badge/ictdijk/digid)](https://bettercodehub.com)
-[willem7684/Multichain-php-API](https://github.com/willem7684/Multichain-php-API) | [![BCH compliance](https://bettercodehub.com/edge/badge/willem7684/Multichain-php-API)](https://bettercodehub.com)
-[DBH17-Energy/clear-energy](https://github.com/DBH17-Energy/clear-energy) | [![BCH compliance](https://bettercodehub.com/edge/badge/DBH17-Energy/clear-energy)](https://bettercodehub.com)
-[lacksfish/enex](https://github.com/lacksfish/enex) | [![BCH compliance](https://bettercodehub.com/edge/badge/lacksfish/enex)](https://bettercodehub.com)
-[vanderheijden86/p2politics](https://github.com/vanderheijden86/p2politics) | [![BCH compliance](https://bettercodehub.com/edge/badge/vanderheijden86/p2politics)](https://bettercodehub.com)
-[JasonZHOU92/smartEnergyNode](https://github.com/JasonZHOU92/smartEnergyNode) | [![BCH compliance](https://bettercodehub.com/edge/badge/JasonZHOU92/smartEnergyNode)](https://bettercodehub.com)
-[ewoldh/emission-rights](https://github.com/ewoldh/emission-rights) | [![BCH compliance](https://bettercodehub.com/edge/badge/ewoldh/emission-rights)](https://bettercodehub.com)
-[woutersm/dbh-identity](https://github.com/woutersm/dbh-identity) | [![BCH compliance](https://bettercodehub.com/edge/badge/woutersm/dbh-identity)](https://bettercodehub.com)
-[mads-b/block-id](https://github.com/mads-b/block-id) | [![BCH compliance](https://bettercodehub.com/edge/badge/mads-b/block-id)](https://bettercodehub.com)
 
 ## How your code is evaluated
 
@@ -53,7 +25,6 @@ Team | Better Code Score
 3. Go to [bettercodehub.com](https://bettercodehub.com) 
 
 4. get instant feedback on the guidelines and pick refactor candidates
-
 
 
 ## How to get support
