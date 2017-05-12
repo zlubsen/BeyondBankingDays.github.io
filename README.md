@@ -1,15 +1,15 @@
 # Better Code Hub online service to benchmark Code Quality
 
-At: [Beyond Banking days](https://beyondbanking.nl).
+Event: [Beyond Banking Days initiated by ABN AMRO](https://beyondbanking.nl).
 
 When: 9, 10 and 11 June 2017.
 
-Where: [Sugar City, Halfweg NL](https://blockchainhackathon.eu/events/hackathon-the-big-weekend)
+Venue: [Sugar City, Halfweg NL](https://blockchainhackathon.eu/events/hackathon-the-big-weekend)
 
 
 ## How your code is evaluated
 
-1. Your code will be evaluated against 10 guidelines for building future-proof code. The guidelines are described in full in [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049555.do) (get your free copy during the event)
+1. Your code will be automatically evaluated against 10 guidelines for building future-proof code. The guidelines are described in full in [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049555.do) (get your free copy during the event)
 
 2. Find a concise reference card of the guidelines [here](https://cdn-images-1.medium.com/max/1200/1*TS-ZTeI7sQS7dy_AlMqSXQ.png)
 
