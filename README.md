@@ -1,6 +1,6 @@
-# Better Code Hub online service to benchmark your Code Quality
+# Better Code Hub online service to benchmark Code Quality
 
-Event: [Beyond Banking days](https://beyondbanking.nl).
+At: [Beyond Banking days](https://beyondbanking.nl).
 
 When: 9, 10 and 11 June 2017.
 
