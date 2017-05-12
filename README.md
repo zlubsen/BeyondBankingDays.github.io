@@ -1,4 +1,4 @@
-# Code quality during the Beyond Banking Days Hackathon
+# Better Code Hub online service to benchmark your Code Quality
 
 Event: [Beyond Banking days](https://beyondbanking.nl).
 
