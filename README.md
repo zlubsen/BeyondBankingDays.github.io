@@ -1,5 +1,7 @@
 # Appreciation for code quality during the Beyond Banking Days Hackathon!
 
+Event: [Beyond Banking days](https://beyondbanking.nl).
+
 When: 9, 10 and 11 June 2017.
 
 Where: [Sugar City, Halfweg NL](https://blockchainhackathon.eu/events/hackathon-the-big-weekend)
