@@ -9,13 +9,11 @@ Venue: [Sugar City, Halfweg NL](https://blockchainhackathon.eu/events/hackathon-
 
 ## How your code is evaluated
 
-1. Your code will be automatically evaluated against 10 guidelines for building future-proof code. The guidelines are described in full in [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049555.do) (get your free copy during the event)
+1. Your code will be automatically evaluated against 10 guidelines for building future-proof code. Find a concise reference card of the guidelines [here](https://cdn-images-1.medium.com/max/1200/1*TS-ZTeI7sQS7dy_AlMqSXQ.png)
 
-2. Find a concise reference card of the guidelines [here](https://cdn-images-1.medium.com/max/1200/1*TS-ZTeI7sQS7dy_AlMqSXQ.png)
+2. You can check your code against the guidelines using [Better Code Hub](https://github.com/integrations/better-code-hub), a [GitHub.com](https://Github.com) integration provided by [Software Improvement Group SIG](https://www.sig.eu). [Better Code Hub](https://bettercodehub.com) integrates with the GitHub Flow and can run in a CI/CD pipeline on all your Pull Requests and Commits.
 
-3. You can check your code against the guidelines using [Better Code Hub](https://github.com/integrations/better-code-hub), a [GitHub.com](https://Github.com) integration provided by [Software Improvement Group SIG](https://www.sig.eu). [Better Code Hub](https://bettercodehub.com) integrates with the GitHub Flow and can run in a CI/CD pipeline on all your Pull Requests and Commits.
-
-4. 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum of 100 KLoc per code base.
+3. 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum of 100 KLoc per code base.
 
 
 ## How to get started
@@ -33,11 +31,13 @@ Venue: [Sugar City, Halfweg NL](https://blockchainhackathon.eu/events/hackathon-
 
 1. Before the event, through bettercodehub@sig.eu
 
-2. During the event by talking to Better Code Hub team of SIG with questions about refactoring tactics
+2. During the event by talking to Better Code Hub team of SIG with questions about refactoring tactics.
 
-3. After the event, through bettercodehub@sig.eu 
+3. The guidelines are described in full in [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049555.do) (get your free copy during the event)
 
-4. your Pro access to Better Code Hub remains valid for *1 month* after the event
+4. After the event, through bettercodehub@sig.eu 
+
+5. Your Pro access to Better Code Hub remains valid for *1 month* after the event
 
 
 ## How to get points
