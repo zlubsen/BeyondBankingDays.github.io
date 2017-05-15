@@ -51,7 +51,7 @@ If you are not on GitHub or your programming language is not supported, talk to 
 
 ## Why Blockchain needs Future-Proof code
 
-Read more [On why it needs high quality code ](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
+Read more [On why Blockhain needs high quality code ](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
 
 And this post on how [Dutch Blockchain Hackathon](https://dev.to/jstvssr/how-a-hackathon-appreciates-quality-code) appreciated quality code.
 
