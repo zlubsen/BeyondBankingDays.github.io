@@ -1,4 +1,4 @@
-# Better Code Hub online service to benchmark Code Quality
+## BCH online service to benchmark Code Quality
 
 Event: [Beyond Banking Days initiated by ABN AMRO](https://beyondbanking.nl).
 
