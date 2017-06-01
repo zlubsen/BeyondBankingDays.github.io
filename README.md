@@ -1,4 +1,4 @@
-## Free online service to evaluate Code Quality.
+## Free online service to evaluate Code Quality
 
 Event: [Beyond Banking Days initiated by ABN AMRO](https://beyondbanking.nl)
 
