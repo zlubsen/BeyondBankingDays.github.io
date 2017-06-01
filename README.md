@@ -50,7 +50,7 @@ Based on 15+ years of research and tens of thousands of measurements on IT syste
 
 1. You get points based on your score in Better Code Hub, The more guidelines you get right, the higher the score. The maximum is 10 out 10.
 
-2. Your Better Code Hub Badge [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingWeb)](https://bettercodehub.com) and team name need to be on [this digital scoreboard](https://github.com/BeyondBankingDays/BeyondBankingDays.github.io/blob/master/scoreboard.md). Talk to us or send a PR.
+2. Your Better Code Hub Badge [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingWeb)](https://bettercodehub.com) and team name need to be on [this digital scoreboard](https://github.com/BeyondBankingDays/BeyondBankingDays.github.io/blob/master/scoreboard.md). Talk to us on slack or send a PR with the code.
 
 
 
