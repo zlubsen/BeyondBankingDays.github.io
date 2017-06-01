@@ -1,4 +1,4 @@
-## Free online service to benchmark Code Quality.
+## Free online service to evaluate Code Quality.
 
 Event: [Beyond Banking Days initiated by ABN AMRO](https://beyondbanking.nl).
 
@@ -15,7 +15,7 @@ Based on 15+ years of research and tens of thousands of measurements on IT syste
 
 ## Your code is evaluated by using Better Code Hub (BCH).
 
-1. Your code will be automatically evaluated against 10 guidelines for building future-proof code. Find a concise reference card of the guidelines [here](https://cdn-images-1.medium.com/max/1200/1*TS-ZTeI7sQS7dy_AlMqSXQ.png)
+1. Your code will be automatically evaluated and benchmarked against 10 guidelines for building future-proof code. Find a concise reference card of the guidelines [here](https://cdn-images-1.medium.com/max/1200/1*TS-ZTeI7sQS7dy_AlMqSXQ.png)
 
 2. You can check your code against the guidelines using [Better Code Hub](https://github.com/integrations/better-code-hub), a [GitHub.com](https://Github.com) integration provided by [Software Improvement Group SIG](https://www.sig.eu). [Better Code Hub](https://bettercodehub.com) integrates with the GitHub Flow and can run in a CI/CD pipeline on all your Pull Requests and Commits.
 
