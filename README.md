@@ -7,6 +7,12 @@ When: 9, 10 and 11 June 2017.
 Venue: [Sugar City, Halfweg NL](https://blockchainhackathon.eu/events/hackathon-the-big-weekend)
 
 
+## Why your code is evaluated
+
+It is amazing to see how far our industry has come over the past decades. New technologies, frameworks, agile processes - some of which were only recently invented - now define the way we work today. One prominently missing building block in the modern development setup is a standardised way to normatively measure code quality - a SMART 'Definition of Done' shared by all developers.
+
+Based on 15+ years of research and tens of thousands of measurements on IT systems from numerous industries, SIG presents 'Better Code Hub’ (BCH), an online environment that allows anyone to measure how their code compares to 10 rules for future-proof code. These 10 rules code are described in SIG's book 'Building Maintainable Software', which was published with O'Reilly Media and which will be handed out at the event.
+
 ## How your code is evaluated
 
 1. Your code will be automatically evaluated against 10 guidelines for building future-proof code. Find a concise reference card of the guidelines [here](https://cdn-images-1.medium.com/max/1200/1*TS-ZTeI7sQS7dy_AlMqSXQ.png)
@@ -40,13 +46,11 @@ Venue: [Sugar City, Halfweg NL](https://blockchainhackathon.eu/events/hackathon-
 5. Your Pro access to Better Code Hub remains valid for *1 month* after the event
 
 
-## How to get points
+## How the scorebord works
 
-1. You get points based on your score in Better Code Hub
+1. You get points based on your score in Better Code Hub, The more guidelines you get right, the higher the score. The maximum is 10 out 10.
 
-2. The more guidelines you get right, the higher the score
-
-3. Your Better Code Hub Badge and team name need to be on [this digital scoreboard](https://github.com/BeyondBankingDays/BeyondBankingDays.github.io/blob/master/scoreboard.md). Talk to us or send a PR.
+2. Your Better Code Hub Badge and team name need to be on [this digital scoreboard](https://github.com/BeyondBankingDays/BeyondBankingDays.github.io/blob/master/scoreboard.md). Talk to us or send a PR.
 
 
 
