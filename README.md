@@ -1,4 +1,4 @@
-## BCH online service to benchmark Code Quality
+## Online service to benchmark Code Quality
 
 Event: [Beyond Banking Days initiated by ABN AMRO](https://beyondbanking.nl).
 
@@ -13,7 +13,7 @@ It is amazing to see how far our industry has come over the past decades. New te
 
 Based on 15+ years of research and tens of thousands of measurements on IT systems from numerous industries, SIG presents 'Better Code Hub’ (BCH), an online environment that allows anyone to measure how their code compares to 10 rules for future-proof code. These 10 rules code are described in SIG's book 'Building Maintainable Software', which was published with O'Reilly Media and which will be handed out at the event.
 
-## How your code is evaluated.
+## Your code is evaluated by using Better Code Hub (BCH).
 
 1. Your code will be automatically evaluated against 10 guidelines for building future-proof code. Find a concise reference card of the guidelines [here](https://cdn-images-1.medium.com/max/1200/1*TS-ZTeI7sQS7dy_AlMqSXQ.png)
 
