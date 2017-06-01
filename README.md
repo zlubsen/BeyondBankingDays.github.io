@@ -1,10 +1,10 @@
 ## Free online service to evaluate Code Quality.
 
-Event: [Beyond Banking Days initiated by ABN AMRO](https://beyondbanking.nl).
+Event: [Beyond Banking Days initiated by ABN AMRO](https://beyondbanking.nl)
 
-When: 9, 10 and 11 June 2017.
+When: 9, 10 and 11 June 2017
 
-Venue: [Sugar City, Halfweg NL](https://blockchainhackathon.eu/events/hackathon-the-big-weekend).
+Venue: [Sugar City, Halfweg NL](https://blockchainhackathon.eu/events/hackathon-the-big-weekend)
 
 
 ## Why your code is evaluated.
