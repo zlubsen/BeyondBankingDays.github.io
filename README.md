@@ -46,7 +46,7 @@ Venue: [Sugar City, Halfweg NL](https://blockchainhackathon.eu/events/hackathon-
 
 2. The more guidelines you get right, the higher the score
 
-3. Your Better Code Hub Badge and team name need to be on this digital scoreboard.
+3. Your Better Code Hub Badge and team name need to be on [this digital scoreboard](https://github.com/BeyondBankingDays/BeyondBankingDays.github.io/blob/master/scoreboard.md). Talk to us or send a PR.
 
 If you are not on GitHub or your programming language is not supported, talk to us
 
