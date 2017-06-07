@@ -62,5 +62,5 @@ And this post on how [Dutch Blockchain Hackathon](https://dev.to/jstvssr/how-a-h
 
 Let's build some great software!
 
-[Zeeger](https://github.com/), [Ravish](https://github.com/) and [Michiel](https://github.com/michielcuijpers)
+[Zeeger](https://github.com/zlubsen), [Ravish](https://github.com/) and [Michiel](https://github.com/michielcuijpers)
 
