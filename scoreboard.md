@@ -1,4 +1,4 @@
-## Scoreboard 
+## Scoreboard powered by Software Improvement Group SIG.
 
 Team | Better Code Score
 --- | ---
